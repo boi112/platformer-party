@@ -1,9 +1,9 @@
-# Platformer Party v0.7 (a Pizza Tower mod)
+# Platformer Party v0.7.1 (a Pizza Tower mod)
 
 Play Pizza Tower as seven platformer heroes, each with their own moves, physics, sounds and HUD.
 Pick a lead and a partner, swap between them mid-level, and run Peppino's tower your way.
 
-> **v0.7 / early release.** 1.0 will add three more characters.
+> **v0.7.1 / early release.** 1.0 will add three more characters.
 
 ## Characters
 
@@ -48,8 +48,8 @@ character selected (Up on the character toggle).
 
 1. In Steam: right-click Pizza Tower, **Properties > Installed Files > Browse**.
 2. **Back up `data.win`** (copy it somewhere safe).
-3. Apply `PlatformerParty-v0.7.xdelta` to `data.win` with your patcher, e.g.
-   `xdelta3 -d -s data.win PlatformerParty-v0.7.xdelta data_patched.win`
+3. Apply `PlatformerParty-v0.7.1.xdelta` to `data.win` with your patcher, e.g.
+   `xdelta3 -d -s data.win PlatformerParty-v0.7.1.xdelta data_patched.win`
 4. Replace `data.win` with the patched file (rename `data_patched.win` to `data.win`).
 5. Check it: the patched file's SHA-256 should be the one in `checksums.txt`.
    (PowerShell: `Get-FileHash data.win`)

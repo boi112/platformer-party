@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.7.1 - 2026-10-08
+
+For Pizza Tower Steam build 16727860.
+
+### Fixed
+- Luigi faced backwards in every pose (the source sheet draws him facing left); all of his frames, including Fire
+  and Cape Luigi, now face the right way.
+- Fire Mario / Fire Luigi lost their white-and-red / white-and-green palette in the wall-slide, wall-kick and
+  ground-pound poses; those poses now use the same colours as the rest.
+- Mario's colours normalised to Super Mario World's (the source sheet used pink reds and cyan highlights).
+
+Note: the character-select corner still reads "v0.7".
+
 ## 0.7.0 - 2026-10-08 (first public release)
 
 For Pizza Tower Steam build 16727860.
