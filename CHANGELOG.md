@@ -1,5 +1,24 @@
 # Changelog
 
+## 0.8.0 - 2026-10-08
+
+For Pizza Tower Steam build 16727860.
+
+### New
+- **Launcher** (PlatformerParty.exe): pick your data.win and press PLAY; it installs the mod (keeping the original
+  as data.win.vanilla) and starts the game. Replaces the xdelta patch.
+- The game boots straight to the character select (no intro).
+- Four new characters: **Mega Man**, **Yoshi**, **Kirby** (12 copy abilities), **Cuphead** (9 weapons, EX shots,
+  3 Supers, charms).
+- **Options > Customize Character**: Cuphead's equip card, Kirby's ability, Mario / Luigi's power-up, Yoshi's eggs,
+  Madeline's dashes (two = pink hair), the Knight's masks, Mega Man's energy.
+- Mario and Luigi now use Super Mario World's own sprites and palettes, with cape flight like SMW and a Fire Flower
+  shot that bounces off walls (4 bounces). Luigi uses the Super Mario Maker 2 SMW-style sheet.
+- Level themes for Mario, Luigi and Mega Man.
+
+### Changed
+- The Knight's spells are on gamepad B; gamepad buttons now work on every controller slot.
+- The camera is 10% closer.
 ## 0.7.1 - 2026-10-08
 
 For Pizza Tower Steam build 16727860.
